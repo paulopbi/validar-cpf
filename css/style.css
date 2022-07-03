@@ -27,3 +27,21 @@ input {
 input::placeholder {
   color: rgba(0, 0, 0, 0.2);
 }
+
+input.erro {
+  border-color: red;
+}
+
+input.valido {
+  border-color: green;
+}
+
+.erro-text {
+  display: none;
+  font-size: 0.875rem;
+  color: red;
+}
+
+.erro-text.ativar {
+  display: block;
+}
