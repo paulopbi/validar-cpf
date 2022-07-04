@@ -1,4 +1,3 @@
-/*Reset*/
 * {
   padding: 0;
   margin: 0;
@@ -15,8 +14,6 @@ body {
   justify-content: center;
   background-color: rgb(10, 12, 22);
 }
-
-/*Estrutura principal*/
 
 main {
   display: flex;
@@ -36,7 +33,6 @@ main h1 {
   text-transform: capitalize;
 }
 
-/*Estrutura do form*/
 form {
   width: 100%;
   display: flex;
@@ -92,6 +88,10 @@ footer a {
   display: inline-block;
   font-size: 1.2rem;
   padding: 1rem;
-  background-color: #68c1fd;
   color: #fff;
+  transition: all .7s ease;
+}
+
+footer a:hover {
+  color: #68c1fd;
 }
