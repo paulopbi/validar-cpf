@@ -22,7 +22,7 @@
   <img src="./assets/logo.png" width="100px" alt="Logo">
  <h2 align="center">Validador De CPF</h2>
  <p>Utilize do Regex para validar o números dos cpfs inseridos</p>
- <a href="https://paulopbi.github.io/validador-de-cpf/">
+ <a href="https://paulopbi.github.io/validar-cpf/">
     <strong>Pagina Completa »</strong>
  </a>
 </div>
